@@ -1,0 +1,12 @@
+model/Agirliklar.data-00000-of-00001
+model/Agirliklar.index
+model/Agirliklar.meta
+model/checkpoint
+model/EmbeddingFastText_TR.bin
+model/EmbeddingFastText_TR.vec
+model/EmbeddingMatrisPre_kv
+veri/sozluk.txt
+veri/tum_veri.txt
+veri/X.npy
+veri/y.npy
+__pycache__/

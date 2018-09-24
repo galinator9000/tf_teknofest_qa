@@ -1,0 +1,20 @@
+{
+	"rnn_unite": [1024],
+	"rnn_hucre": "lstm",
+	"rnn_tipi": "bidirectional_dynamic_rnn",
+	"dense_katmanlari": [],
+	"dense_aktivasyon": "sigmoid",
+	"optimizer": "adam",
+	"learning_rate": 0.001,
+	"dropout_keep_prob_dense": 0.5,
+	"dropout_keep_prob_rnn_input": 0.8,
+	"dropout_keep_prob_rnn_output": 0.5,
+	"dropout_keep_prob_rnn_state": 0.5,
+	"train_epochs": 1,
+	"train_steps": 5000,
+	"train_batch_size": 1024,
+	"log_per_step_percent": 10,
+	"embedding_matris_boyut": 300,
+	"sozluk_ozel_token": ["<start>", "<end>", "<pad>", "<unk>"],
+	"girdi_ters_cevir": true
+}
