@@ -15,3 +15,5 @@ Teknofest Yapay Zeka yarışmasında kullanılan Soru-Cevap modeli.
 <b>model.json:</b> Yapay zeka modelinde kullanılan parametreleri yapılandırmaya yarar.<br>
 
 Eğitilmiş ağırlıklar ve FastText'in Türkçe için yayınladığı model buradan indirilip model/ klasörüne atılmalı: <a href="https://drive.google.com/file/d/1vUHA3SE2l38s3Q8BkO9yA7Lh-j1FF-Us/view">model.tar.gz/</a>
+Ardından matris_sozluk_olustur.py çalıştırılarak JSON formatından soru-cevaplar çıkartılarak matris formatlarına çevrilir.
+Bundan sonra modelle etkileşime geçilebilir.
