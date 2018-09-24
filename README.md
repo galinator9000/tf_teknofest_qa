@@ -2,5 +2,5 @@
 Teknofest Yapay Zeka yarışmasında kullanılan Soru-Cevap modeli.
 
 <p align="center">
-<img src="img/diyagram.jpg" />
+<img width="60%" src="img/diyagram.jpg" />
 </p align="center">
