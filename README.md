@@ -1,6 +1,8 @@
 # tf_teknofest_qa
 Teknofest Yapay Zeka yarışmasında kullanılan Soru-Cevap modeli.
 
+Bu model <b>Encoder-Fully Connected</b> yapısındadır. Ayarlanabilir <b>Encoder-Decoder</b> modeli için bu repoya bakılabilir: <a href="https://github.com/fmehmetun/tf_encdec_seq2seq">fmehmetun/tf_encdec_seq2seq</a>
+
 # Model
 <p align="center">
 <img width="80%" src="img/diyagram.jpg" />
