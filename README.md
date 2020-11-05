@@ -16,7 +16,5 @@ Bu model <b>Encoder-Fully Connected</b> yapısındadır. Ayarlanabilir <b>Encode
 <b>matris_sozluk_olustur.py:</b> Veri setindeki soru-cevap ikililerini modele verilebilecek matris formatlarına çevirir.<br>
 <b>model.json:</b> Yapay zeka modelinde kullanılan parametreleri yapılandırmaya yarar.<br>
 
-Eğitilmiş ağırlıklar buradan indirilip model/ klasörüne atılmalı: <a href="https://drive.google.com/file/d/10OLvPVGFnJXW6k1HWNtIkOSjf_uDq5cQ/view">model.tar.gz/</a>
-Sistem FastText'in Türkçe için yayınladığı modeli kullandığı için buradan indirilebilir: <a href="https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.tr.zip">wiki.tr.zip/</a>
+Sistem FastText'in Türkçe için yayınladığı modeli kullandığı için buradan indirilebilir: <a href="https://fasttext.cc/docs/en/pretrained-vectors.html">Turkish-bin+text</a>
 Ardından matris_sozluk_olustur.py çalıştırılarak JSON formatından soru-cevaplar çıkartılarak matris formatlarına çevrilir.
-Bundan sonra modelle etkileşime geçilebilir.
